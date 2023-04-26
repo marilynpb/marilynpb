@@ -26,7 +26,7 @@
                                                   🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺
                                                   
 <div>
-  <img align="center" alt="img" src="https://cdn.picrew.me/shareImg/org/202304/1589275_IJjPg3rX.png" height="40" width="40">
+  <img align="center" alt="img" src="https://cdn.picrew.me/shareImg/org/202304/1589275_IJjPg3rX.png" height="100" width="100">
 </div>
 
  
