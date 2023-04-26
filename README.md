@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <h2>📨 Contact:</<h2>
+  <h2>Contact:</<h2>
     <h3>✉ marilyn_perezboyko@hotmail.com</h3>
 </div>
 
