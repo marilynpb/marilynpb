@@ -7,7 +7,7 @@
   
 <div align="center">
   <h2>📚 My skills: </<h2>
-    <ul>
+    <ul align="left">
       <li>Convertion Figma and Adobe XD designs into HTML and CSS</li>
       <li>Logical problem-solving to ensure a seamless and error-free user experience</li>
       <li>Implementation of interactive calculators on websites with data export functionalities to PDF and CSV formats</li>
