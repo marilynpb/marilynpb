@@ -15,8 +15,12 @@
 - Uploading files/images from forms
 - Creation of PDFs collecting information from MongoDB Databases
 
-## 📨 Contact:
-✉ marilyn_perezboyko@hotmail.com
+
+
+<div align="center">
+  <h2>📨 Contact:</<h2>
+    <h3>✉ marilyn_perezboyko@hotmail.com</h3>
+</div>
 
 
 <div align="center">
