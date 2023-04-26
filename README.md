@@ -1,5 +1,7 @@
-# Hello 👋 My name is Marilyn
-## I'm a full stack developer, but I specialize in frontend development 📟
+<div align="center">
+  <h1>Hello 👋 My name is Marilyn</<h1>
+    <h2>I'm a full stack developer, but I specialize in frontend development 📟</h2>
+</div>
 
 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 
 
