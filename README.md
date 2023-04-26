@@ -1,5 +1,5 @@
-# Hello 👋
-## My name is Marilyn, I'm a full stack developer, but I specialize in frontend development 📟
+# Hello 👋 My name is Marilyn
+## I'm a full stack developer, but I specialize in frontend development 📟
 
 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 
 
