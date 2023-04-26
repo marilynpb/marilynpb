@@ -25,12 +25,10 @@
 
                                                   🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺
                                                   
-<!DOCTYPE html>
 <html>
   <head>
-    <title>Mi Página</title>
-    <style>
-.nombre {
+    <title>Título de mi Página</title>
+    <style>.nombre {
   /* Estilos CSS básicos */
   font-size: 4em;
   color: #333;
@@ -48,15 +46,7 @@
   50% { left: 20%; }
   100% { left: 50%; }
 }
-      .nombre {
-  font-size: 4em;
-  color: #333;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-    </style>
+</style>
   </head>
   <body>
 <h1 class="nombre">Tu Nombre</h1>
