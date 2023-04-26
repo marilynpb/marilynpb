@@ -1,6 +1,6 @@
 # Hello 👋
 ## My name is Marilyn,  I´m from Argentina and
-I'm a full stack developer, but I specialize in frontend development 📟
+## I'm a full stack developer, but I specialize in frontend development 📟
 
 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 
 
