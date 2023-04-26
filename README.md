@@ -6,7 +6,7 @@
 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 
   
 <div align="left">
-  <h2>📚 My skills: </<h2>
+  <h2>📚 My skills: </h2>
     <ul align="left">
       <li>Convertion Figma and Adobe XD designs into HTML and CSS</li>
       <li>Logical problem-solving to ensure a seamless and error-free user experience</li>
