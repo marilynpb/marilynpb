@@ -4,20 +4,22 @@
 </div>
 
 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 
-
-## 📚 My skills:                                                                                                       
-- Convertion Figma and Adobe XD designs into HTML and CSS
-- Logical problem-solving to ensure a seamless and error-free user experience
-- Implementation of interactive calculators on websites with data export functionalities to PDF and CSV formats
-- Development of Frontend and Backend applications using Nodejs, Javascript, MongoDB, HTML, CSS, and Handlebars
-- Creation of non-relational databases
-- Design and development of web projects
-- Creation of interactive Landing Pages
-- Creation of login with encrypted passwords using Bcrypt
-- Uploading files/images from forms
-- Creation of PDFs collecting information from MongoDB Databases
-
-
+  
+<div align="center">
+  <h2>📚 My skills: </<h2>
+    <ul>
+      <li>Convertion Figma and Adobe XD designs into HTML and CSS</li>
+      <li>Logical problem-solving to ensure a seamless and error-free user experience</li>
+      <li>Implementation of interactive calculators on websites with data export functionalities to PDF and CSV formats</li>
+      <li>Development of Frontend and Backend applications using Nodejs, Javascript, MongoDB, HTML, CSS, and Handlebars</li>
+      <li>Creation of non-relational databases</li>
+      <li>Design and development of web projects</li>
+      <li>Creation of interactive Landing Pages</li>
+      <li>Creation of login with encrypted passwords using Bcrypt</li>
+      <li>Uploading files/images from forms</li>
+      <li>Creation of PDFs collecting information from MongoDB Databases</li>
+    </lu>
+</div>
 
 <div align="center">
   <h2>Contact:</<h2>
