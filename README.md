@@ -1,16 +1,4 @@
 # Hello 👋
-<h1 style="position: relative;">
-  <span style="position: absolute; animation: myAnimation 2s infinite;">Título Animado</span>
-</h1>
-
-<style>
-@keyframes myAnimation {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(20px); }
-  100% { transform: translateX(0); }
-}
-</style>
-
 ### My name is Marilyn, I´m from Argentina and I'm a full stack developer, but I specialize in frontend development 📟
 
 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 
@@ -30,5 +18,49 @@
 ## 📨 Contact:
 ✉ marilyn_perezboyko@hotmail.com
 
+
+
+
+
+
                                                   🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺
+                                                  
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mi Página</title>
+    <style>
+.nombre {
+  /* Estilos CSS básicos */
+  font-size: 4em;
+  color: #333;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  /* Animación CSS */
+  animation: desplazar-izquierda 2s ease-in-out infinite;
+}
+
+@keyframes desplazar-izquierda {
+  0% { left: 50%; }
+  50% { left: 20%; }
+  100% { left: 50%; }
+}
+      .nombre {
+  font-size: 4em;
+  color: #333;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+    </style>
+  </head>
+  <body>
+<h1 class="nombre">Tu Nombre</h1>
+  </body>
+</html>
+
  
