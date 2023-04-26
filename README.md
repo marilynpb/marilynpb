@@ -25,32 +25,8 @@
 
                                                   🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺 🌺
                                                   
-<html>
-  <head>
-    <title>Título de mi Página</title>
-    <style>.nombre {
-  /* Estilos CSS básicos */
-  font-size: 4em;
-  color: #333;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-
-  /* Animación CSS */
-  animation: desplazar-izquierda 2s ease-in-out infinite;
-}
-
-@keyframes desplazar-izquierda {
-  0% { left: 50%; }
-  50% { left: 20%; }
-  100% { left: 50%; }
-}
-</style>
-  </head>
-  <body>
-<h1 class="nombre">Tu Nombre</h1>
-  </body>
-</html>
+<div>
+  <img align="center" alt="img" src="https://picrew.me/share?cd=V4lGh9GlTE" height="40" width="40">
+</div>
 
  
