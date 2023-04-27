@@ -30,10 +30,7 @@
 <div align="center">
   <img align="center" alt="img" src="https://cdn.picrew.me/shareImg/org/202304/1955517_qgrL0z5A.png" height="200" width="200">
 </div>
-  
-  <div align="center">
-  <img align="center" alt="img" src="https://cdn.picrew.me/shareImg/org/202304/1342558_wMGp36q7.png" height="200" width="200">
-</div>
+
   
 
  
