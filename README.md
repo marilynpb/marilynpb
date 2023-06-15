@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <img align="center" alt="img" src="https://drive.google.com/file/d/1mdDXgqo3R8_OssXuIAdHfxiALAEUHM4_/view?usp=sharing" height="200" width="200">
+  <img align="center" alt="img" src="https://cdn.picrew.me/shareImg/org/202304/1955517_qgrL0z5A.png" height="200" width="200">
 </div>
 
   
