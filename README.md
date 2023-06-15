@@ -22,8 +22,10 @@
 </div>
 
 <div align="center">
-  <h2>Contact:</<h2>
+    <h2>Contact:</<h2>
     <h3>✉ marilyn_perezboyko@hotmail.com</h3>
+    <a href="https://main--subtle-travesseiro-6fd46f.netlify.app">Here you can visit my personal portfolio</a>
+    <a href="https://master--gilded-cat-70f31f.netlify.app">Aqui puedes visitar mi portfolio en español</a>
 </div>
 
 
