@@ -24,10 +24,9 @@
 <div align="center">
     <h2>Contact:</<h2>
     <h3>✉ marilyn_perezboyko@hotmail.com</h3>
-    <a href="https://main--subtle-travesseiro-6fd46f.netlify.app">Here you can visit my personal portfolio</a>
-    <a href="https://master--gilded-cat-70f31f.netlify.app">Aqui puedes visitar mi portfolio en español</a>
+    <a href="https://main--subtle-travesseiro-6fd46f.netlify.app" target="_blank">Here you can visit my personal portfolio</a><br>
+    <a href="https://master--gilded-cat-70f31f.netlify.app" target="_blank">Aqui puedes visitar mi portfolio en español</a>
 </div>
-
 
 <div align="center">
   <img align="center" alt="img" src="https://cdn.picrew.me/shareImg/org/202304/1955517_qgrL0z5A.png" height="200" width="200">
